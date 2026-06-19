@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.cache
+*.log
+
+# Runtime state generated beside the app.
+config.json
+netstats.json
+*.tmp
